@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dagu-netflix-clone/static/css/main.ba8df861.css",
+    "main.js": "/dagu-netflix-clone/static/js/main.ca3d20f4.js",
+    "index.html": "/dagu-netflix-clone/index.html",
+    "main.ba8df861.css.map": "/dagu-netflix-clone/static/css/main.ba8df861.css.map",
+    "main.ca3d20f4.js.map": "/dagu-netflix-clone/static/js/main.ca3d20f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8df861.css",
+    "static/js/main.ca3d20f4.js"
+  ]
+}
